@@ -1,2 +1,2 @@
 # 1
-print("Anything You find cool.")
+print("Only if you could see me")
