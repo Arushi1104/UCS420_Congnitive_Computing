@@ -69,5 +69,5 @@ print(IT_employees)
 employees_df['Tax'] = employees_df['Salary'] * 0.1
 print(employees_df)
 
-# l) Save the modified DataFrame (with added columns) to a new CSV file. 
+# l)
 employees_df.to_csv("modified_employees.csv", index=False)
