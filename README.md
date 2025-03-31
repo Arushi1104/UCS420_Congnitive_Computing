@@ -1,1 +1,1 @@
-Assignment Solutions of Cognitive Computing (UCS712)
+Assignment Solutions of Cognitive Computing (UCS420)
