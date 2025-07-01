@@ -1,1 +1,1 @@
-Assignment Solutions of Cognitive Computing (UCS420)
+Lab work of Cognitive Computing (UCS420)
